@@ -1,4 +1,3 @@
-git+https://github.com/instantX-research/diffusers_sd3_control.git@sd3_control
 torch
 torchvision
 invisible_watermark
